@@ -1,2 +1,1 @@
-# PrepCourse-aaa
-Este es un repositorio de prueba del modulo dos de Henry
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde GitHub a mi computadora
